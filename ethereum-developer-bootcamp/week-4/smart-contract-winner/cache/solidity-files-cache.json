@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/saud/alchemy-university/ethereum-developer-bootcamp/week-4/smart-contract-winner/contracts/Solution.sol": {
+      "lastModificationDate": 1674316577356,
+      "contentHash": "d3cd53008e2596c36dc5b3c73c7963e3",
+      "sourceName": "contracts/Solution.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Contract",
+        "Solution"
+      ]
+    }
+  }
+}
