@@ -1,0 +1,5 @@
+services:
+  erc20-token-balance-tracker:
+    image: saudxinu/erc20-token-balance-tracker
+    env_file:
+      - .env
